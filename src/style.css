@@ -1,1 +1,29 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: #0e7e12;
+  text-align: center;
+}
+
+.carta {
+  background: white;
+  display: inline-block;
+  margin: auto;
+  margin-top: 40px;
+  height: 400px;
+  width: 250px;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  position: relative;
+}
+.footer {
+  height: 400px;
+  font-size: 60px;
+  padding-top: 20px;
+  transform: rotate(180deg);
+}
+.center {
+  font-size: 60px;
+}
+.header {
+  font-size: 60px;
+}
